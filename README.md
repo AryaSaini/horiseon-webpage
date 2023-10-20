@@ -26,3 +26,4 @@ THEN I find a concise, descriptive title
 In this project we were given code to a website and we have to consolidate the code within the CSS and HTML file. In addition to this we had to add alt tags to the images. 
 
 ## Link to Live Project 
+https://aryasaini.github.io/horiseon-webpage/#social-media-marketing
